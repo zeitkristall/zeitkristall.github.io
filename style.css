@@ -73,3 +73,29 @@ body {
     background-color: white;
   }
 }
+
+/* unvisited link */
+a:link {
+  color: white;
+   text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  
+  color: white; text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  
+  color: white;
+   text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+  
+  color: white;
+   text-decoration: none;
+}
